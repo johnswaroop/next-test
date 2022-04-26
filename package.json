@@ -15,7 +15,8 @@
     "axios": "^0.26.1",
     "sass": "^1.49.9",
     "string-similarity": "^4.0.4",
-    "react-circular-progressbar": "^2.0.4"
+    "react-circular-progressbar": "^2.0.4",
+     "cookie-cutter": "^0.2.0"
   },
   "devDependencies": {
     "eslint": "8.14.0",
